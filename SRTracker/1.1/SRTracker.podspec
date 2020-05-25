@@ -16,7 +16,7 @@ s.platform = :ios, '10.0'
 s.ios.deployment_target  = '10.0'
 s.libraries = 'z'
 s.static_framework = true
-s.vendored_frameworks  = '1.1/SRTracker.framework'
+s.vendored_frameworks  = 'SRTracker-1.1/SRTracker.framework'
 s.dependency 'SnowplowTracker', '1.1.3'
 
 end
