@@ -10,7 +10,7 @@ s.authors = {'Mobile Development Team'=>'dev.apps@laola1.at'}
 s.homepage = 'https://mdp.sportradar.com'
 s.requires_arc = true
 s.framework = 'SystemConfiguration','MobileCoreServices'
-s.source = { :http => 'https://appsdata.laola1.at/data/testing/frameworks/SRTracker/SRTracker-iOS-1.1.zip'}
+s.source = { :http => 'https://appsdata.laola1.at/data/testing/frameworks/SRTracker/SRTracker-iOS-1.1b4.zip'}
 
 s.platform = :ios, '10.0'
 s.ios.deployment_target  = '10.0'
